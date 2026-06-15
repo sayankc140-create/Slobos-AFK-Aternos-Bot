@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sayankc140-DY9p.aternos.me:62606",
+    "ip": "sayankc140-DY9p.aternos.me",
     "port": 62606,
     "version": "1.21.11",
     "try-creative": false
